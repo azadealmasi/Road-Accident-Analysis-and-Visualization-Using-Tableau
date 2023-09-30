@@ -3185,8 +3185,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2250' minheight='2250' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='81' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='80' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='83' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98222' id='82' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
                 <zone fixed-size='280' forceUpdate='true' h='100000' id='18' is-fixed='true' is-scaled='1' param='/Users/azi/Documents/Projects/Road Accident Dashboard/Background_Road Accident.jpg' type-v2='bitmap' w='100000' x='0' y='0'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
